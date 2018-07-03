@@ -22,7 +22,7 @@ public class p2 {
 	
 		case "/": 
 			if(y==0)
-				System.out.println("cannot perform");
+				System.out.println("invalid option");
 		else
 			System.out.println("result is"+ (x/y));
 		break;
