@@ -9,7 +9,7 @@ public class p2 {
 		Scanner s = new Scanner (System.in);
 		int x= s.nextInt();
 		int y= s.nextInt();
-		System.out.println("enter the operation to be performed");
+		System.out.println("enter the operator");
 		String oper= s.next();
 		switch(oper)
 		{
