@@ -10,7 +10,7 @@ public class p1 {
 			s1+=x;
 			x--;
 		}
-		System.out.println("result is"+ s1);
+		System.out.println("result is = " s1);
 	}
 
 }
