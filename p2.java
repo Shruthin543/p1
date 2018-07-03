@@ -17,7 +17,7 @@ public class p2 {
 		break;
 		case "-": System.out.println("result is"+ (x-y));
 		break;
-		case "*": System.out.println("result is"+ (x*y));
+		case "*": System.out.println("result is"+ (x*y)+(x+y));
 		break;
 	
 		case "/": 
