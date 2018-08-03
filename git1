@@ -1,1 +1,4 @@
 print("hi i'm from git-repo")
+a=10
+b=8
+print(a+b)
